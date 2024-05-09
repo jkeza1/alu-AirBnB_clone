@@ -2,4 +2,3 @@
 """The console for Airbnb project"""
 
 print("console")
-
