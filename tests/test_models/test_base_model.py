@@ -2,11 +2,11 @@
 """Unit test for the base class base model
 """
 import unittest
-# import json
+import json
 import pep8
 from datetime import datetime
-# from io import StringIO
-# from unittest.mock import patch
+from io import StringIO
+from unittest.mock import patch
 from models import base_model
 from models.base_model import BaseModel
 from models.engine.file_storage import FileStorage
