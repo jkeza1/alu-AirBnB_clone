@@ -1,3 +1,6 @@
+![image](https://github.com/NiyonshutiDavid/alu-AirBnB_clone/assets/144002340/6742a673-db5f-4bc4-a2cd-c11a895bb811)
+
+
 # AirBnB Console Project
 
 ## Description
@@ -34,6 +37,9 @@ The console can be utilized in both interactive and non-interactive modes:
 - **Update**: Modify an instance based on the class name and ID
 - **Quit/EOF**: Exit the console
 - **Help**: Obtain descriptions of available commands
+
+  ![Screenshot 2024-05-22 101736](https://github.com/NiyonshutiDavid/alu-AirBnB_clone/assets/144002340/ae89b5dd-2a24-4dd9-9b0d-a31cba6ff9b6)
+
 
 ## How to Use
 Initiate the console using `./console.py`, followed by entering commands as per the supported formats.
